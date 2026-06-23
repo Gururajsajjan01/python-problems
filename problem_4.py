@@ -1,0 +1,5 @@
+values = input()
+l = values.split()
+t = tuple()
+print(l)
+print(t)
